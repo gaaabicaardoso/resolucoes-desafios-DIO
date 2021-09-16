@@ -8,7 +8,7 @@ Saída:
 Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, seguindo o exemplo de saída abaixo. Após cada linha deve ser imprimido o fim de linha.
 
 Resolução:
-
+```
 import java.io.IOException;
 import java.util.Scanner;
 
@@ -46,3 +46,4 @@ public class Desafio{
     }
 	
 }
+```

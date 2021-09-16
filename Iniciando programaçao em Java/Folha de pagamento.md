@@ -9,7 +9,7 @@ Exiba o número e o salário do colaborador, conforme exemplo abaixo, com um esp
 
 Resolução:
 
-
+```
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
@@ -34,3 +34,4 @@ public class MinhaPrimeiraClasse {
     System.out.printf("SALARY = U$ %.2f", salary);
   }
 }
+```
