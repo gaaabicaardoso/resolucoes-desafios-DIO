@@ -9,10 +9,23 @@ Repositórios para compartilhamentos de resoluções dos desafios constantes nos
 * Folha de pagamento
 * Contagem de células
 
-## Desafio aritmético em Java
+## Primeiros passos com Java
+→ Nível: básico
+
+* Distância
+* Soma simples
+* Dividindo X por Y
+
+## Desafios aritmético em Java
 → Nível: intermediário
 
 * Acima da diagonal secundária
 * Abaixo da diagonal secundária
 * Abaixo da diagonal principal
 
+## Desafios avançados em Java
+→ Nível: avançado
+
+* Fibonacci em vetor
+* Área supeior
+* A mudança
