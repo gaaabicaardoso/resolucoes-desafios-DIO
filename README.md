@@ -16,6 +16,13 @@ Repositórios para compartilhamentos de resoluções dos desafios constantes nos
 * Soma simples
 * Dividindo X por Y
 
+## Introdução a programação Java
+→ Nível: básico
+
+* Tuitando
+* DDD 
+* Conversão de tempo
+
 ## Desafios aritmético em Java
 → Nível: intermediário
 
