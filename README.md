@@ -23,6 +23,13 @@ Repositórios para compartilhamentos de resoluções dos desafios constantes nos
 * DDD 
 * Conversão de tempo
 
+## Primeiros desafios em Java
+→ Nível: básico
+
+* Mês
+* Teste de seleção 1
+* Validação de nota
+
 ## Desafios aritmético em Java
 → Nível: intermediário
 
